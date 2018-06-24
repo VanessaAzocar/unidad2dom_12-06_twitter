@@ -1,0 +1,36 @@
+body {
+	margin: 0 auto;
+	background-color: rgba(0, 130, 153, 0.267);
+}
+
+header {
+  background-color: white;
+  width: 100%;
+}
+.firstsection {
+  width: 100%;
+  text-align: center;
+  background-color: #FAFAFA
+}
+
+.secondsection {
+ width: 100%;
+ text-align: center;
+}
+
+#listado {
+  line-height: 60px;
+}
+
+.parteder{
+   height: 300px;
+}
+.txt{
+  resize: none;
+    width: 650px;
+    height:250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.comentarios{
+  text-align: center;
+}
